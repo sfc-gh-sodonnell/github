@@ -1,0 +1,1 @@
+This is a quick example of using GitHub Actions with Snowflake schemachange to manage CICD
